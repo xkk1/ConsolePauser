@@ -1,6 +1,9 @@
 # ConsolePauser 控制台暂停程序
 
-A Chinese version replacement for ConsolePauser in Dev-C++. Dev-C++中ConsolePauser的可替代中文版  
+A Chinese version replacement for ConsolePauser in Dev-C++.   
+Dev-C++ 中 ConsolePauser.exe 的中文可替代版  
+
+copy from: <https://github.com/TooYoungTooSimp/console_runner>  
 
 *Windows only 只能在Windows系统中使用！*  
 
@@ -18,7 +21,8 @@ A Chinese version replacement for ConsolePauser in Dev-C++. Dev-C++中ConsolePau
 
 ## 使用方法
 1. 下载安装 Dev-C++，进入安装路径（已安装完的可在 Dev-C++ 快捷方式上右键-打开文件的所在位置）  
-2. [点我]()下载 ConsolePauser.exe 替换安装目录中原本的 ConsolePauser.exe  
+2. [点我](https://github.com/xkk1/ConsolePauser/releases/download/v0.0.1/ConsolePauser.exe)下载 ConsolePauser.exe 替换安装目录中原本的 ConsolePauser.exe  
+无法下载可试试蓝奏云链接：<https://www.lanzout.com/iN7iV0cifd4d>  
   
 # 编译方法
 使用MinGW编译 ConsolePauser.c  
