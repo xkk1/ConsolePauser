@@ -3,7 +3,7 @@
 A Chinese version replacement for ConsolePauser in Dev-C++.   
 Dev-C++ 中 ConsolePauser.exe 的中文可替代版  
 
-copy from: <https://github.com/TooYoungTooSimp/console_runner>  
+Copy from: <https://github.com/TooYoungTooSimp/console_runner>  
 
 *Windows only 只能在Windows系统中使用！*  
 
