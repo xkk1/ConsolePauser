@@ -17,7 +17,7 @@ Copy from: <https://github.com/TooYoungTooSimp/console_runner>
 
 
 ## 使用截图
-![使用截图](https://github.com/xkk1/ConsolePauser/raw/main/use.png)  
+![使用截图](https://github.com/xkk1/ConsolePauser/raw/main/ConsolePauser.png)  
 
 ## 使用方法
 1. 下载安装 Dev-C++，进入安装路径（已安装完的可在 Dev-C++ 快捷方式上右键-打开文件的所在位置）  
